@@ -82,7 +82,7 @@ Wait Wait! before starting a beautiful journey here some security checkup for yo
 #### After Clicking on Checkbox
 
 <br>
-<img src="src/Image/Secure2.jpg">
+<img src="src/Image/secure2.jpg">
 <br>
 
 ## `LOADING PAGE:`
